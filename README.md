@@ -1,6 +1,4 @@
-<h3>
-Working on <a href="https://ecoeats.uk"><img src="https://cdn.ecoeats.uk/assets/logo.png" width="96" /></a> to make food delivery sustainable.
-</h3>
+<h3>Once upon a time I was an environmental entrepreneur</h3>
 
 <hr />
 <p>
